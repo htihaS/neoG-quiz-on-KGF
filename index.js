@@ -19,8 +19,8 @@ function welcome() {
 }
 function quiz(question,answer){
   var userAnswer=readlineSync.question(question);
-  var userAnswerNospaces=userAnswer.replace(/ /g,'');
-  if(userAnswerNospaces.toLowerCase()===answer.toLowerCase()){
+  
+  if(userAnswer.toLowerCase()===answer.toLowerCase()){
     console.log("whoooop! Right Answer")
     score++;
   }
