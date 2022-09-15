@@ -1,6 +1,6 @@
 # neoG-quiz-on-KGF
 
-# JS
+# JavaScript
 Its a quiz on the movie called KGF
 
 How well do u know the kanada film KGF, lets play a quiz and see
